@@ -1,0 +1,15 @@
+C:\Users\walfrido\Documents\Visual Studio 2008\Projects\Backup\Backup\obj\Release\ResolveAssemblyReference.cache
+C:\Users\walfrido\Documents\Visual Studio 2008\Projects\Backup\Backup\obj\Release\Backup.Service.Resources.resources
+C:\Users\walfrido\Documents\Visual Studio 2008\Projects\Backup\Backup\obj\Release\Backup.Service.ProjectInstaller.resources
+C:\Users\walfrido\Documents\Visual Studio 2008\Projects\Backup\Backup\obj\Release\BackupService.vbproj.GenerateResource.Cache
+C:\Users\walfrido\Documents\Visual Studio 2008\Projects\Backup\Backup\bin\Release\app.xml
+C:\Users\walfrido\Documents\Visual Studio 2008\Projects\Backup\Backup\bin\Release\log.txt
+C:\Users\walfrido\Documents\Visual Studio 2008\Projects\Backup\Backup\bin\Release\Backup.Service.exe
+C:\Users\walfrido\Documents\Visual Studio 2008\Projects\Backup\Backup\bin\Release\Backup.Service.pdb
+C:\Users\walfrido\Documents\Visual Studio 2008\Projects\Backup\Backup\bin\Release\Backup.Service.xml
+C:\Users\walfrido\Documents\Visual Studio 2008\Projects\Backup\Backup\obj\Release\Backup.Service.exe
+C:\Users\walfrido\Documents\Visual Studio 2008\Projects\Backup\Backup\obj\Release\Backup.Service.xml
+C:\Users\walfrido\Documents\Visual Studio 2008\Projects\Backup\Backup\obj\Release\Backup.Service.pdb
+C:\Users\walfrido\Documents\Visual Studio 2008\Projects\Backup\Backup\bin\Release\Backup.Core.dll
+C:\Users\walfrido\Documents\Visual Studio 2008\Projects\Backup\Backup\bin\Release\Backup.Core.pdb
+C:\Users\walfrido\Documents\Visual Studio 2008\Projects\Backup\Backup\bin\Release\Backup.Core.xml

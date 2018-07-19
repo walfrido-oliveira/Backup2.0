@@ -1,0 +1,15 @@
+C:\Users\walfrido\Documents\Visual Studio 2008\Projects\Backup\BackupView\obj\Release\ResolveAssemblyReference.cache
+C:\Users\walfrido\Documents\Visual Studio 2008\Projects\Backup\BackupView\obj\Release\BackupView.vbproj.GenerateResource.Cache
+C:\Users\walfrido\Documents\Visual Studio 2008\Projects\Backup\BackupView\bin\Release\Backup.View.exe
+C:\Users\walfrido\Documents\Visual Studio 2008\Projects\Backup\BackupView\bin\Release\Backup.View.pdb
+C:\Users\walfrido\Documents\Visual Studio 2008\Projects\Backup\BackupView\bin\Release\Backup.View.xml
+C:\Users\walfrido\Documents\Visual Studio 2008\Projects\Backup\BackupView\obj\Release\Backup.View.Conf.resources
+C:\Users\walfrido\Documents\Visual Studio 2008\Projects\Backup\BackupView\obj\Release\Backup.View.Resources.resources
+C:\Users\walfrido\Documents\Visual Studio 2008\Projects\Backup\BackupView\obj\Release\Backup.View.exe
+C:\Users\walfrido\Documents\Visual Studio 2008\Projects\Backup\BackupView\obj\Release\Backup.View.xml
+C:\Users\walfrido\Documents\Visual Studio 2008\Projects\Backup\BackupView\obj\Release\Backup.View.pdb
+C:\Users\walfrido\Documents\Visual Studio 2008\Projects\Backup\BackupView\bin\Release\Backup.Core.dll
+C:\Users\walfrido\Documents\Visual Studio 2008\Projects\Backup\BackupView\bin\Release\Backup.Core.pdb
+C:\Users\walfrido\Documents\Visual Studio 2008\Projects\Backup\BackupView\bin\Release\Backup.Core.xml
+C:\Users\walfrido\Documents\Visual Studio 2008\Projects\Backup\BackupView\bin\Release\app.xml
+C:\Users\walfrido\Documents\Visual Studio 2008\Projects\Backup\BackupView\bin\Release\Backup.View.exe.config

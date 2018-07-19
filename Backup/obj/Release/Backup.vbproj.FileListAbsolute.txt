@@ -1,0 +1,12 @@
+C:\Users\walfrido\Documents\Visual Studio 2008\Projects\Backup\Backup\bin\Release\Backup.exe
+C:\Users\walfrido\Documents\Visual Studio 2008\Projects\Backup\Backup\bin\Release\Backup.pdb
+C:\Users\walfrido\Documents\Visual Studio 2008\Projects\Backup\Backup\bin\Release\Backup.xml
+C:\Users\walfrido\Documents\Visual Studio 2008\Projects\Backup\Backup\obj\Release\ResolveAssemblyReference.cache
+C:\Users\walfrido\Documents\Visual Studio 2008\Projects\Backup\Backup\obj\Release\Backup.Resources.resources
+C:\Users\walfrido\Documents\Visual Studio 2008\Projects\Backup\Backup\obj\Release\Backup.ProjectInstaller.resources
+C:\Users\walfrido\Documents\Visual Studio 2008\Projects\Backup\Backup\obj\Release\Backup.vbproj.GenerateResource.Cache
+C:\Users\walfrido\Documents\Visual Studio 2008\Projects\Backup\Backup\obj\Release\Backup.exe
+C:\Users\walfrido\Documents\Visual Studio 2008\Projects\Backup\Backup\obj\Release\Backup.xml
+C:\Users\walfrido\Documents\Visual Studio 2008\Projects\Backup\Backup\obj\Release\Backup.pdb
+C:\Users\walfrido\Documents\Visual Studio 2008\Projects\Backup\Backup\bin\Release\app.xml
+C:\Users\walfrido\Documents\Visual Studio 2008\Projects\Backup\Backup\bin\Release\log.txt
